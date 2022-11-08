@@ -1,6 +1,22 @@
 .bg-dark {
-    background-color: #0458ab!important;
+    background-color: #121930!important;
 }
-.nav-link {
-    font-size: 16px;
+.navbar-dark .navbar-brand {
+    font-size:18px;
+}
+.navbar-dark .navbar-nav .nav-link {
+    padding-left: 10px;
+    padding-right: 10px; 
+}
+footer.bg-dark{
+    background-color: #5f6a7d!important;
+}
+.col-sm-4 h3{
+    font-family: 'Prompt', sans-serif;
+    font-weight: 400;
+    /* text-align: center; */
+    text-shadow: 2px 1px 2px rgb(244, 244, 88);
+}
+#symbol{
+    font-family: 'Prompt', sans-serif;
 }
